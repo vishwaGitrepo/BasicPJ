@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! coming from Git GitHub Jenkins Maven Ansible Tomcat and to Internetk</h1>
+        <h1>Hello World! coming from Git GitHub Jenkins Maven Ansible Tomcat and to Internet</h1>
     </body>
 </html>
